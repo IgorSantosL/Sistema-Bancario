@@ -1,0 +1,38 @@
+{
+  "name": "financias",
+  "version": "1.0.0",
+  "description": "Atividade proposta pelo professor fabrício para desenvolver um sistema financeiro",
+  "main": "index.js",
+  "scripts": {
+    "config": "npx ts-node ./controllers/init.ts",
+    "back": "npx ts-node src/Backend/index.ts",
+    "front": "npx ts-node src/Frontend/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoHammes/Financias.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GustavoHammes/Financias/issues"
+  },
+  "homepage": "https://github.com/GustavoHammes/Financias#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "install": "^0.13.0",
+    "pg": "^8.16.0"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^6.1.1",
+    "@types/express": "^5.0.2",
+    "@types/node": "^22.15.29",
+    "@types/pg": "^8.15.4",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.8.3"
+  }
+}
