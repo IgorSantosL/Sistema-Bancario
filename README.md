@@ -35,7 +35,7 @@ Explicar a matemática, o funcionamento e o código.
 | ID        | Detalhes                                                                 |
 |-----------|----------------------------------------------------------------------------|
 |1          |Todos os trabalhos devem ter interface com o usuário via navegador.|
-|2          |Todos devem ser desenvolvidos utilizando Typescript e/ou JavaScript;|
+|2          |Todos devem ser desenvolvidos utilizando Typescript e/ou JavaScript.|
 |3          |Deve ser elaborada uma apresentação explicando o conceito e a matemática envolvida.|
 |4          |O código fundamental (que possui a matemática que resolve o problema) deve ser desenvolvido sem o uso de bibliotecas.|
 |5          |Os sistemas de diagnóstico e de finanças devem utilizar banco de dados.|
